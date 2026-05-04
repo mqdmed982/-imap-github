@@ -2,7 +2,7 @@
   "name": "inboxious-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<YOUR-GITHUB-USERNAME>.github.io/<YOUR-REPO-NAME>",
+  "homepage": "https://mqdmed982.github.io/<frontend/",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
